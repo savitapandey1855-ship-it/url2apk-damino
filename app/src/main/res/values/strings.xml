@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Damino</string>
+    <string name="launchUrl">https://damino3getsocial.edgeone.dev</string>
+    <string name="statusBarColor">#E12E6F</string>
+    <string name="splashBackgroundColor">#E12E6F</string>
+    <string name="loadingText">Loading…</string>
+    <string name="exitToastText">Press back again to exit</string>
+    <string name="exitDialogTitle">Exit</string>
+    <string name="exitDialogMessage">Do you want to exit?</string>
+</resources>
