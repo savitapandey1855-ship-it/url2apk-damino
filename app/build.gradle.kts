@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("com.google.gms.google-services")
 }
 
 android {
@@ -32,8 +31,8 @@ android {
 
 dependencies {
     implementation("androidx.browser:browser:1.8.0")
-    implementation("com.google.firebase:firebase-messaging:24.0.0")
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.firebase:firebase-messaging:24.0.0")
 }
